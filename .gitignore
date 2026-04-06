@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Trained model (regenerate: python train_simplified_demo_model.py)
+*.pkl
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Editor / backup junk
+*.save
+*~
+.Rhistory
