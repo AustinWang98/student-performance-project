@@ -17,7 +17,8 @@ Unsupervised **anomaly detection** on student performance data using **Isolation
 │   └── 03_real_world_student_application.ipynb   # Student data pipeline + sensitivity
 ├── docs/
 │   ├── final_project_group7_merged.pdf
-│   └── student_anomaly_detection_website.pdf
+│   └── website/
+│       └── student_anomaly_detection_website.pdf
 └── student/
     ├── student-mat.csv       # Math course (;-separated)
     ├── student-por.csv       # Portuguese course (;-separated)
